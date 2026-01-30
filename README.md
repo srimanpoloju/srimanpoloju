@@ -23,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 ### **Backend**
-`Java` • `Spring Boot` • `Microservices` • `GraphQL` • `Node.js` • `REST APIs`
+`Java` • `Spring Boot` • `Microservices` • `GraphQL` • `Node.js` • `REST APIs` • `Express.js` 
 
 ### **Frontend**
 `React.js` • `TypeScript` • `JavaScript` • `HTML` • `CSS`
