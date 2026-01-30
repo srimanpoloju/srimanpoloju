@@ -33,6 +33,18 @@
 
 ---
 
+## 🚀 What I Do
+
+✨ Design and develop **high-performance backend services**  
+✨ Build and maintain **REST & GraphQL APIs**  
+✨ Modernize legacy systems into **microservices architectures**  
+✨ Collaborate closely with product, frontend, and DevOps teams  
+✨ Write clean, testable, and maintainable code  
+
+I enjoy solving complex problems and turning business requirements into **robust technical solutions**.
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔹 **ChatterBox (TypeScript)**  
